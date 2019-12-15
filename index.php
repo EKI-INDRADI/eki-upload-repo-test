@@ -9,5 +9,9 @@
 <body>
     <h1>test upload remote</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo corporis veniam praesentium labore perspiciatis dignissimos, necessitatibus illum ipsum? Corrupti aspernatur hic eveniet, dolore optio ipsam ullam fugit quibusdam assumenda vero.</p>
+    <ul>
+    <li>satu</li>
+    <li>dua</li>
+    </ul>
 </body>
 </html>
